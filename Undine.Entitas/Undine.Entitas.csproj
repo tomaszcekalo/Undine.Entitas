@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Entitas" Version="1.14.1" />
+    <PackageReference Include="Undine.Core" Version="0.0.0.2" />
+  </ItemGroup>
+
+</Project>

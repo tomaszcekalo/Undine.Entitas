@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undine.Entitas", "Undine.Entitas\Undine.Entitas.csproj", "{97D3DE82-5FC7-468C-BD68-A97A65FE5525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undine.Entitas.Console", "Undine.Entitas.Console\Undine.Entitas.Console.csproj", "{4484765F-4914-4F93-9004-5B5B19FCF339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D3DE82-5FC7-468C-BD68-A97A65FE5525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D3DE82-5FC7-468C-BD68-A97A65FE5525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D3DE82-5FC7-468C-BD68-A97A65FE5525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D3DE82-5FC7-468C-BD68-A97A65FE5525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4484765F-4914-4F93-9004-5B5B19FCF339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4484765F-4914-4F93-9004-5B5B19FCF339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4484765F-4914-4F93-9004-5B5B19FCF339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4484765F-4914-4F93-9004-5B5B19FCF339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69AD90CC-660A-423A-A91D-500B61B077A7}
+	EndGlobalSection
+EndGlobal
